@@ -1,5 +1,5 @@
 ---
-  title: "Calf Healthy Prediction"
+  title: "Calf Health Prediction"
 author: "Himani Joshi"
 date: "`r Sys.Date()`"
 output:
